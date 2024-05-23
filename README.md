@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManishSakalkar](https://github.com/ManishSakalkar)
+- 👨‍💻 All of my projects are available at [https://github.com/ManishSakalkar](https://github.com/ManishSakalkar?tab=repositories)
 
 - 💬 Ask me about **Java, Spring, SpringBoot and Software Architecture**
 
