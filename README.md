@@ -112,5 +112,5 @@
 </div>
 
 ###
-![Snake animation][https://github.com/ManishSakalkar/ManishSakalkar/blob/output/snake.svg](https://github.com/ManishSakalkar/ManishSakalkar/blob/output/snake.svg)
+![Snake animation](https://github.com/ManishSakalkar/ManishSakalkar/blob/output/snake.svg)
 
