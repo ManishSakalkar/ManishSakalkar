@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishsakalkar" alt="manishsakalkar" /></a> </p>
 
-- 🔭 I’m currently working on **Tech Mahindra**
+- 🔭 I’m currently working on **SISL Infotech**
 
 - 🌱 I’m currently learning **Java Frameworks and Cloud Technologies**
 
